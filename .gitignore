@@ -1,0 +1,5 @@
+.env*
+*.local
+config
+backups/
+node_modules/
